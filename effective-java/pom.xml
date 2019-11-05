@@ -5,13 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>study.xiaweidong.java</groupId>
-    <artifactId>java-study</artifactId>
+    <artifactId>effective-java</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <modules>
-        <module>jvm-study</module>
-        <module>design-patterns</module>
-        <module>effective-java</module>
-    </modules>
-
+    
 </project>
