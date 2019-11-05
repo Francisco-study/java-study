@@ -10,6 +10,7 @@
 
     <modules>
         <module>jvm-study</module>
+        <module>design-patterns</module>
     </modules>
 
 </project>
